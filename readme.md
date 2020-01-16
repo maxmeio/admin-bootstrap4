@@ -17,7 +17,7 @@ O projeto consiste no desenvolvimento de um painel para a administração de sit
 
 ## Instruções
 
-1. Clonar o projeto para sua máquina com **git clone https://github.com/maxmeio/admin-bootstrap3.git**
+1. Clonar o projeto para sua máquina com **git clone https://github.com/maxmeio/admin-bootstrap4.git**
 2. Executar o comando **copy .env.example .env** para criar o arquivo **.env** na pasta.
 3. Modificar o arquivo **.env** com os dados de conexão do seu banco de dados local.
 4. Rodar **composer install** para instalar as dependências do server-side.
